@@ -13,4 +13,7 @@ It utilize Tkinter module in python to develope a usable interface that can show
 It specializes in the service for users who want to run the automation around the clock/on the server. Potential timer feature would be added in.
 
 ##Tweet Sender
-This module analyze the options user put in, such as send new tweet or retweet an old tweet. Moreover, if the tweet is over 140 limit when you send it, this module would truncate it without losing the core meaning of the text, to satisfy the 140- character limit.
+This module analyzes the options user put in, such as send new tweet or retweet an old tweet. Moreover, if the tweet is over 140 limit when you send it, this module would truncate it without losing the core meaning of the text, to satisfy the 140- character limit.
+
+##Example
+Please look up in the [main.py](https://github.com/flyws/Persona/blob/master/main.py)
